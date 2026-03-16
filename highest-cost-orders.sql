@@ -63,7 +63,6 @@ with base as (
     from customers c
     left join orders o on c.id = o.cust_id
     where o.order_date between '2019-02-01' and '2019-05-01'
-        -- and first_name in ('Mark')
 )
 
 , sum_order as (
