@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: Premium vs Freemium
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 10300
