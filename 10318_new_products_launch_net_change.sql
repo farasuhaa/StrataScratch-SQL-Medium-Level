@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: New Products
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 10318
