@@ -24,7 +24,7 @@
 
 -- =====================================================================================
 -- Approach
---
+
 -- 1. Rank each user’s transactions by purchase date to identify first and second purchases.
 -- 2. Extract the first and second purchase dates using conditional aggregation.
 -- 3. Compute the difference in days between the two purchases.
