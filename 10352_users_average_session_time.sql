@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: Users By Average Session Time
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 10352
