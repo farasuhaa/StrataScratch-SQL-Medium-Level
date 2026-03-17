@@ -1,5 +1,5 @@
 -- =========================================================
--- Title: Finding Purchases
+-- Title: Number of Streets Per Zip Code
 -- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
