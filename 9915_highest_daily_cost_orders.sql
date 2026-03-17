@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: Highest Cost Orders
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 9915
