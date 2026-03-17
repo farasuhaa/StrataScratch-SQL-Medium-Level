@@ -14,7 +14,7 @@
 --         (acceptance can occur on any date after the request is sent).
 
 -- Tables:
---
+
 -- fb_friend_requests
 --  ____________________________
 -- | action            | text  |
@@ -24,13 +24,12 @@
 
 -- =====================================================================================
 -- Approach
---
+
 -- 1. Split the data into two CTEs: one for sent requests and one for accepted requests.
 -- 2. Left join accepted to sent using sender and receiver to identify which requests were 
 --    successfully accepted (even if accepted later).
 -- 3. Aggregate by sent date to get total sent and total accepted requests.
 -- 4. Compute acceptance rate as accepted / sent, using float division for accuracy.
---
 -- =====================================================================================
 
 with sent as (
