@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: Acceptance Rate By Date
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 10285
