@@ -1,5 +1,6 @@
 -- =========================================================
 -- Title: Finding User Purchases
+-- Language: PostgreSQL
 -- Difficulty: Medium
 -- Source: StrataScratch
 -- ID: 10322
@@ -20,7 +21,7 @@
 -- | id          | bigint      |
 -- | item        | text        |
 -- | revenue     | bigint      |
--- | uder_id     | bigint      |
+-- | user_id     | bigint      |
 
 -- =====================================================================================
 -- Approach
